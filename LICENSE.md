@@ -1,4 +1,4 @@
-# 
+# advanced NFT Wash Trading Bot for nft arbitrage bot | price-impact-analysis & take-profit offers the most advanced nft arbitrage bot, with price-impact-analysis and take-profit.
 
 
 
